@@ -1,6 +1,7 @@
 # resume-categorizer
 a study to identify the effectiveness of TF-IDF Vectorizer and Word2Vec as a document vectorizer. 
 
+Dataset : https://www.kaggle.com/datasets/jillanisofttech/updated-resume-dataset <br/>
 TF-IDF Vectorizer performs significantly better than Word2Vec, due to its purpose of vectorizing document compared to Word2Vec which focuses on each word.
 
 ## KNN Classification Result
